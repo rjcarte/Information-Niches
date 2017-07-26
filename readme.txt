@@ -24,14 +24,14 @@ INSTRUCTIONS FOR REPRODUCING RESULTS FROM SECTION 3.2
 
 To reproduce the results described in section 3.2 and shown in figure 4, four (4) MATLAB scripts are available in the ./code/section3-2 folder, as follows (the filenames are self-explanatory): 
 
-generate_fig4a.m
-nicheX_fig4b.m
-nicheX_fig4c.m
-nicheY_fig4d.m
+nicheAperturbed_fig4a.m
+nicheCperturbed_fig4b.m
+nicheBperturbed_fig4c.m
+nicheFperturbed_fig4d.m
 
 INDIVIDUAL PLOTS AVAILABLE AS IMAGES 
 
-Image files of each plot are available as uncompressed TIF and PNG in the following folders:
+Image files of each plot are available in the PNG format in the following folders:
 
 ./images/section3-1
 ./images/section3-2
