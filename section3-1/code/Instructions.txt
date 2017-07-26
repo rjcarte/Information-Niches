@@ -1,6 +1,10 @@
 Copyright (c) 2017, Richard Carter
 All rights reserved.
 
+IMPORTANT NOTE
+
+It is recommended that MATLAB r2016b is used to run the simulation scripts.
+
 INSTRUCTIONS FOR REPRODUCING RESULTS FROM SECTION 3.1
 
 A MATLAB script is provided for each of the simulations described in section 3.1 of the paper ‘Emergence and dynamics of self-producing information niches as a step towards pre-evolutionary organization’. Each script runs the simulation in MATLAB, tracks changes in the structure of the population of interacting automatons, and present the results as a plot. The plots generated should be similar to those shown in figure 1 of the paper.

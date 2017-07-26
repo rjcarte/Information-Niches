@@ -1,6 +1,10 @@
 Copyright (c) 2017, Richard Carter
 All rights reserved.
 
+IMPORTANT NOTE
+
+It is recommended that MATLAB r2016b is used to run the simulation scripts.
+
 PURPOSE
 
 The data and images are supplied as supplementary material for the paper "Emergence and dynamics of self-producing information niches as a step towards pre-evolutionary organization" by R.J.Carter, K.Wiesner, S.Mann © 2017
@@ -10,8 +14,6 @@ GENERAL
 This supplementary information is available for referees and other interested parties who wish to run MATLAB simulation code to reproduce the results described in the above paper.
 
 INSTRUCTIONS FOR REPRODUCING RESULTS FROM SECTION 3.1
-
-Important Note: MATLAB r2016b is required to run the simulation scripts.
 
 To reproduce the results described in section 3.1 and shown in figure 1 six (6) MATLAB scripts are available in the ./code/section3-1 folder, as follows (the filenames are self-explanatory): 
 
