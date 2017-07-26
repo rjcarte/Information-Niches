@@ -11,6 +11,8 @@ This supplementary information is available for referees and other interested pa
 
 INSTRUCTIONS FOR REPRODUCING RESULTS FROM SECTION 3.1
 
+Important Note: MATLAB r2016b is required to run the simulation scripts.
+
 To reproduce the results described in section 3.1 and shown in figure 1 six (6) MATLAB scripts are available in the ./code/section3-1 folder, as follows (the filenames are self-explanatory): 
 
 nicheA_fig1a.m
