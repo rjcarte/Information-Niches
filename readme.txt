@@ -11,6 +11,8 @@ This supplementary information is available for referees and other interested pa
 
 INSTRUCTIONS FOR REPRODUCING RESULTS FROM SECTION 3.1
 
+Important Note: MATLAB r2016b is required to run the simulation scripts.
+
 To reproduce the results described in section 3.1 and shown in figure 1 six (6) MATLAB scripts are available in the ./code/section3-1 folder, as follows (the filenames are self-explanatory): 
 
 nicheA_fig1a.m
@@ -24,12 +26,21 @@ INSTRUCTIONS FOR REPRODUCING RESULTS FROM SECTION 3.2
 
 To reproduce the results described in section 3.2 and shown in figure 4, four (4) MATLAB scripts are available in the ./code/section3-2 folder, as follows (the filenames are self-explanatory): 
 
+<<<<<<< HEAD
 nicheAperturbed_fig4a.m
 nicheCperturbed_fig4b.m
 nicheBperturbed_fig4c.m
 nicheFperturbed_fig4d.m
 
 INDIVIDUAL PLOTS AVAILABLE AS IMAGES 
+=======
+generate_fig4a.m
+nicheX_fig4b.m
+nicheX_fig4c.m
+nicheY_fig4d.m
+
+INDIVIDUAL PLOTS AVAILABLE AS IMAGES 
+>>>>>>> origin/master
 
 Image files of each plot are available in the PNG format in the following folders:
 
@@ -46,6 +57,9 @@ rich.carter@bristol.ac.uk
 Enjoy!
 
 COPYRIGHT STATEMENT
+
+Copyright (c) 2017, Richard Carter
+All rights reserved.
 
 Redistribution and use in source and binary forms, with or without 
 modification, are permitted provided that the following conditions are 
