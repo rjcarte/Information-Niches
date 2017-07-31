@@ -11,7 +11,7 @@ A MATLAB script is provided for each of the simulations described in section 3.1
 
 EXECUTION TIME
 
-The simulations are run over a large number of iterations from 1e6 to 1e7 and other factors (e.g. where diffusive mixing is occurring) then execution of the simulation can take up to 1 hr to finish (estimation based on using a 2016 Intel i7 quad-core CPU with 16GB RAM).
+The simulations are run over a large number of iterations from 1e6 to 1e7 and this, along with other factors (e.g. where diffusive mixing is occurring), will increase the execution time of the simulation. As a guide the simulations can take 0.5 - 2 hrs to complete (this is baselined against the code running on a 2016 Intel i7 quad-core CPU with 16GB RAM).
 
 Six MATLAB scripts are provided:
 
